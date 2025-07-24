@@ -1,0 +1,28 @@
+﻿a
+
+Two-Variable (T) Independent Unequal Variance
+Column 1 Observations : 17
+Column 1 Sample Mean : -7470.457059
+Column 1 Sample Standard Deviation : 12222.647284
+Column 2 Observations : 17
+Column 2 Sample Mean : 20973.172941
+Column 2 Sample Standard Deviation : 12222.647284
+Sample Mean Difference : -28443.630000
+T-Statistic : -6.784677
+Hypothesized Mean : 0.000000
+Power Analysis
+Alpha Significance:                        0.01 (1%)     0.05 (5%)    0.10 (10%)
+One-Tail Statistical Power (1 - beta):      99.9984%     100.0000%     100.0000%
+Two-Tail Statistical Power (1 - beta):      99.9939%      99.9998%     100.0000%
+P-Value Left-Tailed : 0.000000
+"Significant at 1%, 5%, and 10%."
+Null hypothesis is rejected.
+Significantly less than the hypothesized mean difference.
+P-Value Right-Tailed : 1.000000
+"Not significant at any of the following significance levels: 1%, 5%, and 10%."
+Null hypothesis is not rejected.
+Not significantly greater than the hypothesized mean difference.
+P-Value Two-Tailed : 0.000000
+"Significant at 1%, 5%, and 10%."
+Null hypothesis is rejected.
+Significantly different than the hypothesized mean difference.
